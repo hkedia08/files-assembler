@@ -31,6 +31,12 @@ This is a files assembler which can run globally in any system . It automaticall
 
 ## Features
 
+![help](https://user-images.githubusercontent.com/55133676/146541947-636225d1-e463-4631-89b0-c1298e603d47.png)
+![tree](https://user-images.githubusercontent.com/55133676/146542180-16ea31ea-8fc8-444d-8561-011947fb30e4.png)
+![before-organize](https://user-images.githubusercontent.com/55133676/146542875-05ddecf6-3e2d-4dc9-aac5-e205cc0ccf07.png)
+![after-organize](https://user-images.githubusercontent.com/55133676/146542922-afafc3e0-88a4-49a4-b455-cd4661866ab5.png)
+
+
 
 <!-- CONTACT -->
 ## Contact
