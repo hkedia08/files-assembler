@@ -30,10 +30,25 @@ This is a file system organizer which can run globally in any system . It automa
 </br>
 
 ## Features
-
+```node input.js help```: This command is used to list all the commands .
+</br>
+```assemble help```: This is global version of help command. 
+</br>
 ![help](https://user-images.githubusercontent.com/55133676/146541947-636225d1-e463-4631-89b0-c1298e603d47.png)
+</br>
+```node input.js tree "directoryPath"```: This command will list  all the directory and files of given folder in tree format.
+</br>
+```assemble tree "directoryPath"```: This is global version of tree command. 
+</br>
 ![tree](https://user-images.githubusercontent.com/55133676/146542180-16ea31ea-8fc8-444d-8561-011947fb30e4.png)
+</br>
+```node input.js organize "directoryPath"```: This command will organize all the files in there respective folders according to there extension.
+</br>
+```assemble organize "directoryPath"```: This is global version of organize command.
+</br>
+This is the folder structure before running organize command .
 ![before-organize](https://user-images.githubusercontent.com/55133676/146542875-05ddecf6-3e2d-4dc9-aac5-e205cc0ccf07.png)
+This is the folder structure after running organize command .
 ![after-organize](https://user-images.githubusercontent.com/55133676/146542922-afafc3e0-88a4-49a4-b455-cd4661866ab5.png)
 
 
