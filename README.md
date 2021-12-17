@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a files assembler which can run globally in any system . It automatically  assemble files in proper directories according to there extension when listed  commands are executed .
+This is a file system organizer which can run globally in any system . It automatically  assemble files in proper directories according to there extension when listed  commands are executed .
 
 ### Built With
 <img align="left" alt ="C++"  width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" >
