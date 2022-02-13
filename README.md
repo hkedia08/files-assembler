@@ -56,6 +56,6 @@ This is the folder structure after running organize command .
 <!-- CONTACT -->
 ## Contact
 
-Harsh Kedia - [@harshkedia](https://www.linkedin.com/in/hk-2608/) - 2019cse107iiitn@gmail.com
+Harsh Kedia - [@harshkedia](https://www.linkedin.com/in/hk-2608/) - harshkedia600@gmail.com
 
 Project Link: [https://github.com/hkedia08/files-assembler](https://github.com/hkedia08/files-assembler)
